@@ -1,3 +1,4 @@
+#!usefull
 ---
 status: active
 project: meta
